@@ -1,0 +1,4 @@
+user_id,username,role,email,password
+1,admin_tian,admin,admin@example.com,admin123
+2,member_siti,member,siti@example.com,user
+3,member_budi,member,budi@example.com,user
